@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/Emoji123-s/blog_preview_card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -116,7 +116,7 @@ Users should be able to:
     src: url('assets/fonts/Figtree-VariableFont_wght.ttf');
 }
 ```
-Learnt how to add media queries, and edit them according to the device specifications, and using @fontface to add fonts locally.
+Learned how to add media queries, and edit them according to the device specifications, and using @fontface to add fonts locally.
 
 
 ### Continued development
